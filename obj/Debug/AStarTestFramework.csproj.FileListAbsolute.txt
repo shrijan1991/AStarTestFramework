@@ -1,0 +1,10 @@
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\bin\Debug\AStarTestFramework.exe.config
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\bin\Debug\AStarTestFramework.exe
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\bin\Debug\AStarTestFramework.pdb
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\obj\Debug\AStarTestFramework.Properties.Resources.resources
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\obj\Debug\AStarTestFramework.csproj.GenerateResource.cache
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\obj\Debug\AStarTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\obj\Debug\AStarTestFramework.exe
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\obj\Debug\AStarTestFramework.pdb
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\obj\Debug\AStarTestFramework.csprojAssemblyReference.cache
+C:\Users\Administrator\AStar\AStarTestFramework\AStarTestFramework\obj\Debug\AStarTestFramework.FrameworkGUI.resources
